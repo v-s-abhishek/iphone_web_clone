@@ -42,7 +42,7 @@ const Hero = () => {
         id="cta"
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
-        <a href="#highlights" className="btn">Buy</a>
+        <a href="https://www.amazon.in/Apple-iPhone-15-Pro-128/dp/B0CHX2DRGV" className="btn">Buy</a>
         <p className="font-normal text-xl">From ₹21483.00/mo. or ₹134900.00</p>
       </div>
     </section>
